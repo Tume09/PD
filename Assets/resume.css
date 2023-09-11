@@ -226,7 +226,7 @@ h3{
 
 @media only screen and (min-device-width: 501px) and (max-device-width: 800px){
     body{
-        display:contents;
+        display:block;
     }
     .rightColumn{
         border: none;
